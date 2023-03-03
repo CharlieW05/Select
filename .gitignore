@@ -1,2 +1,14 @@
-# Syntax example
+# Syntax
 syntax.sel
+
+# Build
+bin/
+bin-int/
+!thirdparty/premake/bin
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
