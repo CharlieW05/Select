@@ -1,0 +1,4 @@
+func Main(args: String): void
+{
+    Native.PrintString("Hello World")
+}
