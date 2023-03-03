@@ -13,6 +13,11 @@ project "Select"
 		"src/**.cpp"
 	}
 
+	includedirs
+	{
+		"src"
+	}
+
 	filter "system:windows"
 		systemversion "latest"
 
